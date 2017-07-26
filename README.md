@@ -3,6 +3,8 @@ xTuple Digium Caller ID intergration
 
 Rebooting custom/callerid
 
+https://www.digium.com/sites/digium/files/support/svadminrefmanual-5-8.pdf
+
 Under Digium's URL Manager, configure the URL's for the following php scripts.  Please prepend your server's URL.
 
 On Incoming Call Event URL
